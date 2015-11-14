@@ -18,3 +18,6 @@ This is a simple web project, deployment is easy enough
 ## How to contribute
 
 
+### Copyright
+
+2015 Sunny Year
