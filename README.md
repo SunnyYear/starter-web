@@ -23,4 +23,4 @@ Please fork this repo and then issue Pull requests for review
 
 ### Copyright
 
-2015 Sunny Year
+2015 Sunny Year. All rights reserved (on mb)
